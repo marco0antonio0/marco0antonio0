@@ -18,7 +18,8 @@
     de aplicação junto a packges diversos de acordo com oque o projeto demanda
 
 ## Metodos de estudo 
-    Crio clones e designs projetado por mim com a estrategia de desenvolver o melhor das minhas  Skills e assim atender o mercado do melhor que a demanda exige
+    Crio clones e designs projetado por mim com a estrategia de desenvolver o
+     melhor das minhas  Skills e assim atender o mercado do melhor que a demanda exige
 
 ##  Conhecimentos demais que me ajudam a desenvolver
 
