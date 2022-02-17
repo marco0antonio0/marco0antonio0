@@ -12,10 +12,10 @@
     
 ## Objetivos
      Desenvolver skills de progamação em flutter junto a 
-    Praticidade de aplicações de packeges flutter 
+    Praticidade de aplicações de plugins flutter 
         
     Me esforço ao maximo para acompanhar o desenvolvimento e entendimento
-    de aplicação junto a packges diversos de acordo com oque o projeto demanda
+    de aplicação junto a plugins diversos de acordo com oque o projeto demanda
 
 ## Metodos de estudo 
     Crio clones e designs projetado por mim com a estrategia de desenvolver o
@@ -23,8 +23,8 @@
 
 ##  Conhecimentos demais que me ajudam a desenvolver
 
-*    Uso da aplicação Figma para desenvolver layout e desings  
-*    Leitura documentações sobre packeges desejados  em flutter 
+*    Uso da aplicação Figma para desenvolver layout e designs  
+*    Leitura documentações sobre plugins desejados  em flutter 
 
 ### clique e saiba mais sobre meu trabalho 
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marco0antonio_/)
