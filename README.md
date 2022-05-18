@@ -1,7 +1,8 @@
 # Ola, Eu sou Marco Antonio
 
 # Software engineer 
-<img aling="left" height="200cm"  src="[img_page.png](https://github.com/marco0antonio0/marco0antonio0/blob/main/imagens/img_page.png?raw=true)">
+![img](https://github.com/marco0antonio0/marco0antonio0/blob/main/imagens/img_page.png?raw=true
+)
 
 # 
 # Ola Desenvolvedor 
