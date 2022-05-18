@@ -1,33 +1,51 @@
 # Ola, Eu sou Marco Antonio
 
-## Desenvolvedor mobile 
-<img aling="left" height="200cm" src="https://raw.githubusercontent.com/gist/marco0antonio0/87b3fa933bb4396accc6ad9e2030ab1d/raw/3476aa84572e646e92d8971639653bb47c0fba2c/cardapresent.svg">
+# Software engineer 
+<img aling="left" height="200cm"  src="[img_page.png](https://github.com/marco0antonio0/marco0antonio0/blob/main/imagens/img_page.png?raw=true)">
 
-### Neste perfil compartilharei um pouco de minha trajetoria como  desenvolvedor  
+# 
+# Ola Desenvolvedor 
 
-![blog](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+Sou progamador FullStack e progamo principalmente em dart e python aproveitando oque tem de melhor nas linguagens ao meu alcance
+
+Neste perfil irei desenvolver ao maximo aplicações mobile e desktop
+irei fornece meus codigo para estudo e melhorias
+Me acompanhe nas redes sociais
+
+
+[![img](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/marco0antonio_/)
+[![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/marco-antonio-aa3024233/)
+[![img](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+)](https://api.whatsapp.com/send?phone=559185707836)
+
+#         
+##  Linguagens de progamação
+#
+Um pouco de cada uma para ficar perfeito
+
+![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 )
-
-![blog](http://ForTheBadge.com/images/badges/made-with-python.svg)
-    
-## Objetivos
-     Desenvolver skills de progamação em flutter junto a 
-    Praticidade de aplicações de plugins flutter 
-        
-    Me esforço ao maximo para acompanhar o desenvolvimento e entendimento
-    de aplicação junto a plugins diversos de acordo com oque o projeto demanda
+![img](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+)
+![img](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+)
+![img](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+)
+![img](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+)
+#
+## Sobre mim
+desenvolvedor em diversas linguagens,aprendo rapido, nesse perfil compartilharei um pouco do meu trabalho por codigo 
+#
 
 ## Metodos de estudo 
-    Crio clones e designs projetado por mim com a estrategia de desenvolver o
-     melhor das minhas  Skills e assim atender o mercado do melhor que a demanda exige
+    Realizo o desenvolvimento de aplicações de todos os tipos com as principais linguagens Flutter,dart,python,kivy,C++
+     
 
 ##  Conhecimentos demais que me ajudam a desenvolver
 
 *    Uso da aplicação Figma para desenvolver layout e designs  
 *    Leitura documentações sobre plugins desejados  em flutter 
 
-### clique e saiba mais sobre meu trabalho 
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marco0antonio_/)
- 
- 
-<img aling="right" height="cm" src="https://raw.githubusercontent.com/gist/marco0antonio0/d26c9ca1310cc10d2e45d08ba9469ad7/raw/e0461accea1617a4f0641de51794197c45695971/cardperfil.svg">
