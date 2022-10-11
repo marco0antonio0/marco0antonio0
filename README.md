@@ -1,17 +1,16 @@
-# Ola, Eu sou Marco Antonio
+# Ola, Eu sou Marco Antonio 🎯
 
-# Software engineer 
+
 ![img](https://github.com/marco0antonio0/marco0antonio0/blob/main/imagens/img_page.png?raw=true
 )
 
 # 
-# Ola Desenvolvedor 
+# Ola Dev ⭐⭐⭐
 
-Sou progamador FullStack e progamo principalmente em dart e python aproveitando oque tem de melhor nas linguagens ao meu alcance
+Sou graduando em ciencias da computação e eng software, nesta pagina irei compartilhar meus codigos em desenvolvimento e estudo para cada vez mais possa evoluir
 
-Neste perfil irei desenvolver ao maximo aplicações mobile e desktop
-irei fornece meus codigo para estudo e melhorias
-Me acompanhe nas redes sociais
+Desenvolvimento de aplicações mobile e desktop !!
+Me acompanhe nas redes sociais !!!
 
 
 [![img](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -20,16 +19,37 @@ Me acompanhe nas redes sociais
 )](https://www.linkedin.com/in/marco-antonio-aa3024233/)
 [![img](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://api.whatsapp.com/send?phone=5591984837847)
+## Ferramentas 
+-   Design 🎨
+    -
+    -   figma
+    -   canva
+-   Linguagens 🖥️
+    -
+    -   Python, kivy
+    -   Flutter, Dart
+    -   html, css
+    -   c++
+    -   sql
+-   Fluxograma / mapa 🗺️
+    -
+    -   whimsical
+-   GIT ⭐
+    - 
+-   vscode ⭐
+    -
+
 #
-## Projetos em andamento
+## Estudos em andamento 📈
 #         
 
-* Bot WhatsApp
-* Aplicação para estipular o orçamento teorico
-* Aplicação 'loja flutter'
+## 🚧 Lista em atualização 🚧
+* Bot WhatsApp 🚧
+* Aplicação para estipular o orçamento teorico 🚧
+* Aplicação 'loja flutter' 🚧
 
 #         
-##  Linguagens de progamação
+##  Linguagens de progamação 💻
 #
 Um pouco de cada uma para ficar perfeito
 
@@ -44,16 +64,18 @@ Um pouco de cada uma para ficar perfeito
 ![img](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 )
 #
-## Sobre mim
-desenvolvedor em diversas linguagens,aprendo rapido, nesse perfil compartilharei um pouco do meu trabalho por codigo 
+## Sobre mim ⭐⭐⭐⭐⭐
+#### Densenvolvedor web,mobile,desktop, atualmente graduando em ciencia da computação e eng software
 #
 
-## Metodos de estudo 
-    Realizo o desenvolvimento de aplicações de todos os tipos com as principais linguagens Flutter,dart,python,kivy,C++
+## Metodos de estudo ✔️
+#### Realiza desenvolvimento de telas ou prototipos a fim de estudar o desenvolvimento e aplicabilidade de informações proveniente de documentação e foruns para aprimoramento e desenvolvimento profissional  
+#
      
 
 ##  Conhecimentos demais que me ajudam a desenvolver
 
 *    Uso da aplicação Figma para desenvolver layout e designs  
-*    Leitura documentações sobre plugins desejados  em flutter 
+*    Leitura documentações 
+
 
