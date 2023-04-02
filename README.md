@@ -6,8 +6,10 @@
 # 
 # Ola ,sou Marco ⭐⭐⭐
 
-Sou graduando em ciencias da computação e eng software, nesta pagina irei compartilhar meus codigos em desenvolvimento e estudo para cada vez mais possa evoluir
-
+<p>
+    Ola, realizo o desenvolvimento de aplicações desktop,mobile e sites com foco ao desenvolvimento rapido e consistente, utilizando tecnologias como Flutter e Python. Além disso, tenho interesse em desenvolvimento de APIs e integração de sistemas. <br>
+    Visite meus repositorios e saiba mais sobre meus desenvolvimentos atuais !!
+  <p>
 Desenvolvimento de aplicações mobile e desktop !!
 Me acompanhe nas redes sociais !!!
 
@@ -60,8 +62,6 @@ Me acompanhe nas redes sociais !!!
     -   soluções de erros em codigos
      
 ##  Linguagens de progamação 💻
-#
-Um pouco de cada uma para ficar perfeito
 
 ![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 )
@@ -75,13 +75,12 @@ Um pouco de cada uma para ficar perfeito
 )
 
 ## Sobre mim ⭐⭐⭐⭐⭐
-#### Densenvolvedor web,mobile,desktop, atualmente graduando em ciencia da computação e eng software
+<p> Sou graduando em Ciência da Computação e Engenharia de Software e estou sempre buscando me aprimorar em meus conhecimentos. Meu foco é o estudo e desenvolvimento de aplicações e sites, com ênfase em produção de projetos com design moderno e desenvolvimento rápido.
+   <br>
+   Possuo conhecimentos avançados em desenvolvimento Flutter e Python e estou sempre estudando novas tecnologias para agregar valor aos meus projetos. Além disso, também estou focado em desenvolver aplicações e sites voltados para integração com APIs.
+   <p>
 
 
-## Metodos de estudo ✔️
-#### Realiza desenvolvimento de telas ou prototipos com proposito de estudar o desenvolvimento e aplicabilidade de informações proveniente de documentação e foruns para aprimoramento e desenvolvimento profissional  
-#
-     
 
 
 
