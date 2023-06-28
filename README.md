@@ -7,7 +7,7 @@
 # Ola ,sou Marco ⭐⭐⭐
 
 <p>
-    Ola, realizo o desenvolvimento de aplicações desktop,mobile e sites com foco ao desenvolvimento rapido e consistente, utilizando tecnologias como Flutter e Python. Além disso, tenho interesse em desenvolvimento de APIs e integração de sistemas. <br>
+    Ola, realizo o desenvolvimento de aplicações desktop,mobile e sites com foco ao desenvolvimento rapido e consistente, utilizando tecnologias como Flutter, Next e Python. Além disso,tenho desenvolvido estudos em APIs e integração de sistemas. <br>
     Visite meus repositorios e saiba mais sobre meus desenvolvimentos atuais !!
   <p>
 Desenvolvimento de aplicações mobile e desktop !!
@@ -44,7 +44,7 @@ Me acompanhe nas redes sociais !!!
     -   canva
 -   Linguagens 🖥️
     -
-    -   Python  || flask || selenium - kivy || PysimpleGui || SQL
+    -   Python  || flask || selenium || PysimpleGui || SQL
     -   Flutter && Dart
     -   HTML, CSS
     -   C++
@@ -62,18 +62,12 @@ Me acompanhe nas redes sociais !!!
     -   depuração de codigo
     -   soluções de erros em codigos
      
-##  Linguagens de progamação 💻
-
-![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-)
-![img](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-)
-![img](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
-)
-![img](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-)
-![img](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
-)
+-  Linguagens de progamação 💻
+    -   Flutter web mobile
+    -   next js
+    -   react js
+    -   python - selenium pySimpleGui Flask
+    -   Database - SQL SQLite Oracle Apex 
 
 
 
