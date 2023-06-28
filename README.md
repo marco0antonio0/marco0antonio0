@@ -75,11 +75,7 @@ Me acompanhe nas redes sociais !!!
 ![img](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 )
 
-## Sobre mim ⭐⭐⭐⭐⭐
-<p> Sou graduando em Ciência da Computação e Engenharia de Software e estou sempre buscando me aprimorar em meus conhecimentos. Meu foco é o estudo e desenvolvimento de aplicações e sites, com ênfase em produção de projetos com design moderno e desenvolvimento rápido.
-   <br>
-   Possuo conhecimentos avançados em desenvolvimento Flutter e Python e estou sempre estudando novas tecnologias para agregar valor aos meus projetos. Além disso, também estou focado em desenvolver aplicações e sites voltados para integração com APIs.
-   <p>
+
 
 
 
