@@ -20,10 +20,12 @@ Me acompanhe nas redes sociais !!!
 
 ## Estudos em andamento 📈
 ## 🚧 Lista em atualização 🚧
-* Bot WhatsApp 🚧
-    *   Python && Selenium
-* site-densenvolvimento_web_faculdade 🚧
-    *   HTML CSS
+* Portifolio site
+    *   Desenvolvimente next js - integração de api para controle de dados 
+* Gerador-README-Flutter  🚧
+    *   Desenvolvimento web flutter
+* desenvolvimento calculadora de notas🚧
+    *   Next js -HTML CSS
 * app-Economia-flutter 🚧
     *   Desemvolvimento mobile flutter
 * site-blog-prototipo 🚧
@@ -32,8 +34,7 @@ Me acompanhe nas redes sociais !!!
     *   Desenvolvimento web flutter
 * API-Flask  🚧
     *   Desenvolvimento python API rest && controle de banco SQL
-* Gerador-README-Flutter  🚧
-    *   Desenvolvimento web flutter
+
 
 
 ## Ferramentas 
