@@ -25,7 +25,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - Armazenamento no Firebase
 - [Link para o site](https://adote.nova-work.cloud/)
 
-### [Loja de Games 🎮](https://github.com/marco0antonio0/blog-games-nextjs)
+### [Blog Loja de Games 🎮](https://github.com/marco0antonio0/blog-games-nextjs)
 
 - Desenvolvido com Next.js
 - Integração de API para obter dados
