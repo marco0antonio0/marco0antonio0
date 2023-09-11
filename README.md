@@ -1,78 +1,69 @@
-# Ola, Eu sou Marco Antonio 🎯
+# 👋 Olá, eu sou Marco Antonio 🎯
 
+![Imagem](https://raw.githubusercontent.com/marco0antonio0/marco0antonio0/a5d88d75c951cd5b9535e097915eeeebf2bdf575/imagens/image-readme.png)
 
-![img](https://github.com/marco0antonio0/marco0antonio0/blob/a5d88d75c951cd5b9535e097915eeeebf2bdf575/imagens/image-readme.png)
+## Sobre Mim ⭐⭐⭐
 
-# 
-# Ola ,sou Marco ⭐⭐⭐
+Olá, meu nome é Marco Antonio, tenho 23 anos e sou um engenheiro de software apaixonado por tecnologia e desenvolvimento de software. Minha paixão me levou a me especializar em desenvolvimento web e mobile, onde estou constantemente trabalhando em projetos que envolvem integrações com APIs e gerenciamento de bancos de dados para aprimorar minhas habilidades como desenvolvedor.
 
-<p>
-    Ola, realizo o desenvolvimento de aplicações desktop,mobile e sites com foco ao desenvolvimento rapido e consistente, utilizando tecnologias como Flutter, Next e Python. Além disso,tenho desenvolvido estudos em APIs e integração de sistemas. <br>
-    Visite meus repositorios e saiba mais sobre meus desenvolvimentos atuais !!
-  <p>
-Desenvolvimento de aplicações mobile e desktop !!
-Me acompanhe nas redes sociais !!!
+Foco principalmente no desenvolvimento web com Flutter Web e Next.js, além de me especializar em engenharia de integrações com APIs para criar soluções excepcionais.
 
-[![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/marco-antonio-aa3024233/)
-[![img](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://api.whatsapp.com/send?phone=5591984837847)
+Convido você a explorar meus repositórios para conhecer mais sobre meus projetos atuais!
 
-## Estudos em andamento 📈
-## 🚧 Lista em atualização 🚧
-* Portifolio site
-    *   Desenvolvimente next js - integração de api para controle de dados 
-* Gerador-README-Flutter  🚧
-    *   Desenvolvimento web flutter
-* desenvolvimento calculadora de notas🚧
-    *   Next js -HTML CSS
-* app-Economia-flutter 🚧
-    *   Desemvolvimento mobile flutter
-* site-blog-prototipo 🚧
-    *   Desenvolvimento web flutter
-* site-CloneUber_UI 🚧
-    *   Desenvolvimento web flutter
-* API-Flask  🚧
-    *   Desenvolvimento python API rest && controle de banco SQL
+## Redes Sociais
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-aa3024233/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5591984837847)
 
+## Projetos em Destaque 🚀
 
-## Ferramentas 
--   Design 🎨
-    -
-    -   figma
-    -   canva
--   Linguagens 🖥️
-    -
-    -   Python  || flask || selenium || PysimpleGui || SQL
-    -   Flutter && Dart
-    -   HTML, CSS
-    -   C++
-    -   SQL || SQLite || APEX ORACLE SQL
--   Fluxograma / mapa 🗺️
-    -
-    -   whimsical
--   GIT ⭐
-    -
-    -   controle de versão
-    -   controle de branch
-    -   correções de bugs
--   vscode ⭐
-    -
-    -   depuração de codigo
-    -   soluções de erros em codigos
-     
--  Linguagens de progamação 💻
-    -  
-    -   Flutter web mobile
-    -   next js
-    -   react js
-    -   python - selenium pySimpleGui Flask
-    -   Database - SQL SQLite Oracle Apex 
+### [Site de Adoção de Animais 🐾](https://github.com/marco0antonio0/trabalho_extensao_medVet)
 
+- Desenvolvido com Next.js
+- Integração de API
+- Gerenciamento de banco de dados MySQL
+- Armazenamento no Firebase
+- [Link para o site](https://adote.nova-work.cloud/)
 
+### [Loja de Games 🎮](https://github.com/marco0antonio0/blog-games-nextjs)
 
+- Desenvolvido com Next.js
+- Integração de API para obter dados
+- [Link para o site](https://store-games.nova-work.cloud/)
 
+## Estudos em Andamento 📈
 
+- 🚧 Lista em atualização 🚧
+  - Site de Calculadora de Notas da Faculdade (Desenvolvimento Next.js)
+  - Blog Cozinharte (Desenvolvimento Next.js, Integração com Oracle Database)
+  - Blog Clone Uber Alternativo (Desenvolvimento Flutter)
+  - App Frente de Caixa (Desenvolvimento Mobile Flutter)
+  - App Calculadora de Impressão 3D (Desenvolvimento Mobile Flutter)
 
+## Ferramentas 🛠️
 
+### Design 🎨
+
+- Figma
+- Canva
+
+### Linguagens 🖥️
+
+- Python | Javascript | C++ | Pascal | SQL
+- Flutter | React.js | Next.js | Flask | Delphi | Selenium
+- SQL | SQLite | APEX ORACLE SQL | Firebase-db | Firebase-storage
+
+### Fluxograma / Mapa 🗺️
+
+- Whimsical
+
+### Controle de Versão/Git ⭐
+
+- Controle de versão
+- Controle de branch
+- Correções de bugs
+
+### VSCode ⭐
+
+- Depuração de código
+- Soluções de erros em códigos
