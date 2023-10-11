@@ -17,6 +17,15 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ## Projetos em Destaque 🚀
 
+### [Aplicativo Rota da Fé - Cirio 2023 🚀🚀](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
+
+- Desenvolvido com Flutter Mobile
+- Integração de API
+- Gerenciamento de banco de dados MySQLServer
+- Recursos Offline de armazenamento de dados e CRUD SQLite
+- [Link para o projeto](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
+
+
 ### [Site de Adoção de Animais 🐾](https://github.com/marco0antonio0/trabalho_extensao_medVet)
 
 - Desenvolvido com Next.js
