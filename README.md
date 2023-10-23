@@ -61,14 +61,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
   - App Frente de Caixa (Desenvolvimento Mobile Flutter)
   - App Calculadora de Impressão 3D (Desenvolvimento Mobile Flutter)
 
-## Ferramentas 🛠️
 
-### Design 🎨
-
-- Figma
-- Canva
-
-  
 ## Language
 
   <a href="https://skillicons.dev">
@@ -93,9 +86,16 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
     <img src="https://skillicons.dev/icons?i=netlify,heroku,azure" />
   </a>
   
+## Ferramentas 🛠️
+
+### Design 🎨
+
+- Figma
+- Canva
 
 ### Fluxograma / Mapa 🗺️
 
+- Visual Paradigma Online
 - Whimsical
 
 ### Controle de Versão/Git ⭐
