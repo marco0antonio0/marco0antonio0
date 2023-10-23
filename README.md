@@ -18,7 +18,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 ## Projetos em Destaque 🚀
 
 ### [Aplicativo Rota da Fé - Cirio 2023 🚀🚀](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
-
+![img](/imagens/aplicativo-rota-da-fe.png)
 - Desenvolvido com Flutter Mobile
 - Integração de API
 - Gerenciamento de banco de dados MySQLServer
@@ -27,7 +27,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 
 ### [Site de Adoção de Animais 🐾](https://github.com/marco0antonio0/trabalho_extensao_medVet)
-
+![img](/imagens/site-me-adote.png)
 - Desenvolvido com Next.js
 - Integração de API
 - Gerenciamento de banco de dados MySQL
@@ -35,7 +35,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - [Link para o site](https://adote.nova-work.cloud/)
 
 ### [Blog Loja de Games 🎮](https://github.com/marco0antonio0/blog-games-nextjs)
-
+![img](/imagens/site-store-play-games.png)
 - Desenvolvido com Next.js
 - Integração de API para obter dados
 - [Link para o site](https://store-games.nova-work.cloud/)
