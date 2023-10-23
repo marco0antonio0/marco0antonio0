@@ -68,11 +68,31 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - Figma
 - Canva
 
-### Linguagens 🖥️
+  
+## Language
 
-- Python | Javascript | C++ | Pascal | SQL
-- Flutter | React.js | Next.js | Flask | Delphi | Selenium
-- SQL | SQLite | APEX ORACLE SQL | Firebase-db | Firebase-storage
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp" />
+  </a>
+
+## Frameworks
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,flutter,react,flask,express," />
+  </a>
+
+## Databases-apps-language
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+  </a>
+  
+## Deployer
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=netlify,heroku,azure" />
+  </a>
+  
 
 ### Fluxograma / Mapa 🗺️
 
