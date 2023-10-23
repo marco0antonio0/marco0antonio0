@@ -40,10 +40,15 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - Integração de API para obter dados
 - [Link para o site](https://store-games.nova-work.cloud/)
 
+### [calculadora-notas-faculdade✅](https://github.com/marco0antonio0/calculadora-notas-faculdade)
+![img](/imagens/site-calculadora-de-nota.png)
+- Desenvolvido com Next.js
+- Objetivo: facilitar o calculo de notas universitarias
+- [Link para o site](https://calculadora-notas.nova-work.cloud/)
+
 ## Estudos em Andamento 📈
 
 - 🚧 Lista em atualização 🚧
-  - Site de Calculadora de Notas da Faculdade (Desenvolvimento Next.js)
   - Blog Cozinharte (Desenvolvimento Next.js, Integração com Oracle Database)
   - Blog Clone Uber Alternativo (Desenvolvimento Flutter)
   - App Frente de Caixa (Desenvolvimento Mobile Flutter)
