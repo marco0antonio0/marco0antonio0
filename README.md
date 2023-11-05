@@ -1,10 +1,19 @@
+![Imagem](/imagens/image_walpaper1.png)
+
 # 👋 Olá, eu sou Marco Antonio 🎯
 
-![Imagem](https://raw.githubusercontent.com/marco0antonio0/marco0antonio0/a5d88d75c951cd5b9535e097915eeeebf2bdf575/imagens/image-readme.png)
+<!-- ## Sobre Mim ⭐⭐⭐ -->
 
-## Sobre Mim ⭐⭐⭐
-
-Olá, meu nome é Marco Antonio, tenho 23 anos e sou um engenheiro de software apaixonado por tecnologia e desenvolvimento de software. Minha paixão me levou a me especializar em desenvolvimento web e mobile, onde estou constantemente trabalhando em projetos que envolvem integrações com APIs e gerenciamento de bancos de dados para aprimorar minhas habilidades como desenvolvedor.
+**Nome** Marco Antonio
+\
+**Idade** 23 anos
+\
+**Universitario** ciencia da computação && engenharia de software
+\
+**Presidente da liga academica** de desenvolvimento de software unama - [**LADSOFT-UNAMA**](https://github.com/ladsoftunama)
+\
+\
+Olá, meu nome é **Marco Antonio**, tenho 23 anos e sou um engenheiro de software apaixonado por tecnologia e desenvolvimento de software. Minha paixão me levou a me especializar em desenvolvimento web e mobile, onde estou constantemente trabalhando em projetos que envolvem integrações com APIs e gerenciamento de bancos de dados para aprimorar minhas habilidades como desenvolvedor.
 
 Foco principalmente no desenvolvimento web com Flutter Web e Next.js, além de me especializar em engenharia de integrações com APIs para criar soluções excepcionais.
 
@@ -18,7 +27,9 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 ## Projetos em Destaque 🚀
 
 ### [Aplicativo Rota da Fé - Cirio 2023 🚀🚀](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
+
 ![img](/imagens/aplicativo-rota-da-fe.png)
+
 - Desenvolvido com Flutter Mobile
 - Integração de API
 - Gerenciamento de banco de dados MySQLServer
@@ -26,9 +37,10 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - [Link para o projeto](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
 - [Link para Download app](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023/releases/tag/v0.1.3-beta)
 
-
 ### [Site de Adoção de Animais 🐾](https://github.com/marco0antonio0/trabalho_extensao_medVet)
+
 ![img](/imagens/site-me-adote.png)
+
 - Desenvolvido com Next.js
 - Integração de API
 - Gerenciamento de banco de dados MySQL
@@ -36,21 +48,27 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - [Link para o site](https://adote.nova-work.cloud/)
 
 ### [Blog Loja de Games 🎮](https://github.com/marco0antonio0/blog-games-nextjs)
+
 ![img](/imagens/site-store-play-games.png)
+
 - Desenvolvido com Next.js
 - Integração de API para obter dados
 - [Link para o site](https://store-games.nova-work.cloud/)
 
 ### [calculadora-notas-faculdade✅](https://github.com/marco0antonio0/calculadora-notas-faculdade)
+
 ![img](/imagens/site-calculadora-de-nota.png)
+
 - Desenvolvido com Next.js
 - Objetivo: facilitar o calculo de notas universitarias
 - [Link para o site](https://calculadora-notas.nova-work.cloud/)
 
 ### [Gerador-README-Flutter✅](https://github.com/marco0antonio0/Gerador-README-Flutter)
+
 ![img](/imagens/site-gerador-readme.png)
+
 - Desenvolvido com Flutter Web
-- Objetivo: facilitar o desenvolvimento de README.md 
+- Objetivo: facilitar o desenvolvimento de README.md
 - [Link para o site](https://facilities-readme.nova-work.cloud/#/)
 
 ## Estudos em Andamento 📈
@@ -60,7 +78,6 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
   - Blog Clone Uber Alternativo (Desenvolvimento Flutter)
   - App Frente de Caixa (Desenvolvimento Mobile Flutter)
   - App Calculadora de Impressão 3D (Desenvolvimento Mobile Flutter)
-
 
 ## Language
 
