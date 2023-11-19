@@ -71,6 +71,14 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - Objetivo: facilitar o desenvolvimento de README.md
 - [Link para o site](https://facilities-readme.nova-work.cloud/#/)
 
+### [Site venda de cursos✅](https://github.com/marco0antonio0/Site-topers-cursos)
+
+![img](imagens\site-toperCursoss.png)
+
+- Desenvolvido com Next.js
+- Integração de API para obter dados
+- [Link para o site](https://topercursos.nova-work.cloud/)
+
 ## Estudos em Andamento 📈
 
 - 🚧 Lista em atualização 🚧
