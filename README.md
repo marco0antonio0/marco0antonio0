@@ -76,6 +76,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 ![img](imagens\site-toperCursoss.png)
 
 - Desenvolvido com Next.js
+- Tailwinds
 - Integração de API para obter dados
 - [Link para o site](https://topercursos.nova-work.cloud/)
 
