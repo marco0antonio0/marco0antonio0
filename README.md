@@ -73,12 +73,21 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ### [Site venda de cursos✅](https://github.com/marco0antonio0/Site-topers-cursos)
 
-![img](imagens\site-toperCursoss.png)
+![img](imagens\site-toperCursosss.png)
 
 - Desenvolvido com Next.js
 - Tailwinds
 - Integração de API para obter dados
 - [Link para o site](https://topercursos.nova-work.cloud/)
+
+### [Site Pokedex✅](https://github.com/marco0antonio0/Pokedex-project)
+
+![img](imagens/site-pokedexs.png)
+
+- Desenvolvido com Next.js
+- Tailwinds
+- Integração de API para obter dados
+- [Link para o site](https://pokedex.nova-work.cloud/)
 
 ## Estudos em Andamento 📈
 
