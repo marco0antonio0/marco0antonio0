@@ -73,7 +73,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ### [Site venda de cursos✅](https://github.com/marco0antonio0/Site-topers-cursos)
 
-![img](imagens\site-toperCursosss.png)
+![img](/imagens/site-toperCursosss.png)
 
 - Desenvolvido com Next.js
 - Tailwinds
@@ -82,7 +82,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ### [Site Pokedex✅](https://github.com/marco0antonio0/Pokedex-project)
 
-![img](imagens/site-pokedexs.png)
+![img](/imagens/site-pokedexs.png)
 
 - Desenvolvido com Next.js
 - Tailwinds
