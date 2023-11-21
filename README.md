@@ -87,6 +87,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - Desenvolvido com Next.js
 - Tailwinds
 - Integração de API para obter dados
+- [Link para o projeto api](https://github.com/marco0antonio0/api-pokemons)
 - [Link para o site](https://pokedex.nova-work.cloud/)
 
 ## Estudos em Andamento 📈
