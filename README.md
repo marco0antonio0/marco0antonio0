@@ -82,7 +82,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ### [Site Pokedex✅](https://github.com/marco0antonio0/Pokedex-project)
 
-![img](/imagens/site-pokedexs.png)
+![img](/imagens/site-pokedexx.png)
 
 - Desenvolvido com Next.js
 - Tailwinds
