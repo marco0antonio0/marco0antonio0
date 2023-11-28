@@ -37,6 +37,16 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - [Link para o projeto](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
 - [Link para Download app](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023/releases/tag/v0.1.3-beta)
 
+### [Aplicativo Flex Task List 📱](https://github.com/marco0antonio0/App-Task-List)
+
+![img](imagens/image_1.png)
+
+- Desenvolvido com Flutter Mobile
+- Persistencia de dados em banco de dados SQLite
+- Recursos Offline de armazenamento de dados e CRUD SQLite
+- [Link para o projeto](https://github.com/marco0antonio0/App-Task-List)
+- [Link para Download app](https://github.com/marco0antonio0/App-Task-List/releases/tag/v1)
+
 ### [Site de Adoção de Animais 🐾](https://github.com/marco0antonio0/trabalho_extensao_medVet)
 
 ![img](/imagens/site-me-adote.png)
