@@ -26,6 +26,16 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ## Projetos em Destaque 🚀
 
+### [Aplicativo Box gerenciamento](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
+
+![img](/imagens/aplicativo-box-gerenciamento1.png)
+
+- Desenvolvido com Flutter Mobile
+- Gerenciamento de banco de dados SQLite
+- Recursos Offline de armazenamento de dados e CRUD SQLite
+- [Link para o projeto](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
+- [Link para Download app](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023/releases/tag/v0.1.3-beta)
+
 ### [Aplicativo Rota da Fé - Cirio 2023 🚀🚀](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
 
 ![img](/imagens/aplicativo-rota-da-fe.png)
