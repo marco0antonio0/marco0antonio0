@@ -38,7 +38,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ### [Aplicativo Rota da Fé - Cirio 2023 🚀🚀](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
 
-![img](/imagens/appRotaDaFe.png)
+![img](/imagens/appRotaDaFe1.png)
 
 - Desenvolvido com Flutter Mobile
 - Integração de API
@@ -59,7 +59,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ### [Site de Adoção de Animais 🐾](https://github.com/marco0antonio0/trabalho_extensao_medVet)
 
-![img](/imagens/projMeAdote.png)
+![img](/imagens/projMeAdote2.png)
 
 - Desenvolvido com Next.js
 - Integração de API
