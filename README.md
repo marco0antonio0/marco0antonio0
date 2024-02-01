@@ -38,7 +38,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ### [Aplicativo Rota da Fé - Cirio 2023 🚀🚀](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
 
-![img](/imagens/aplicativo-rota-da-fe.png)
+![img](/imagens/appRotaDaFe.png)
 
 - Desenvolvido com Flutter Mobile
 - Integração de API
