@@ -49,7 +49,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ### [Aplicativo Flex Task List 📱](https://github.com/marco0antonio0/App-Task-List)
 
-![img](imagens/image_1.png)
+![img](/imagens/appFlexTaskList.png)
 
 - Desenvolvido com Flutter Mobile
 - Persistencia de dados em banco de dados SQLite
@@ -59,7 +59,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ### [Site de Adoção de Animais 🐾](https://github.com/marco0antonio0/trabalho_extensao_medVet)
 
-![img](/imagens/site-me-adote.png)
+![img](/imagens/projMeAdote.png)
 
 - Desenvolvido com Next.js
 - Integração de API
