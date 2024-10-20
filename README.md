@@ -26,7 +26,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ## Projetos em Destaque 🚀
 
-### [Site Dirrocha E-commerce 🌐](https://github.com/marco0antonio0/app-box-gerenciamento)
+### [Site Dirrocha E-commerce 🌐](https://github.com/marco0antonio0/E-commerce_front-end)
 
 ![img](/imagens/1724012676344.jpeg)
 
@@ -37,7 +37,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - [Link para site - https://e-commerce.dirrocha.com](https://e-commerce.dirrocha.com/)
 
 
-### [Backend Dirrocha E-commerce 🖥](https://github.com/marco0antonio0/app-box-gerenciamento)
+### [Backend Dirrocha E-commerce 🖥](https://github.com/marco0antonio0/E-commerce_back-end)
 
 ![img](/imagens/1724011647692.jpeg)
 
@@ -50,8 +50,21 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - Sistema deployer VPS
 - Documentado com Swagger
 - [Link para o projeto](https://github.com/marco0antonio0/E-commerce_back-end)
-- [Link para swagger](https://e-commerce-api.dirrocha.com/api-docs)
+- [Link para swagger Docs](https://e-commerce-api.dirrocha.com/api-docs)
 - [Link para site - https://e-commerce.dirrocha.com](https://e-commerce.dirrocha.com/)
+
+
+### [Aplicativo CadMED 2024📱 🚀🚀](https://github.com/CAD-MED/Projeto-de-extensao-CAD-MED)
+
+
+
+- Desenvolvido com Flutter Mobile
+- Integração de API
+- Gerenciamento de banco de dados MySQLServer
+- Recursos Offline de armazenamento de dados e CRUD SQLite
+- [Link para o projeto](https://github.com/CAD-MED/Projeto-de-extensao-CAD-MED)
+- [Link para Download app](https://github.com/CAD-MED/Projeto-de-extensao-CAD-MED/releases)
+
 
 ### [Aplicativo Box gerenciamento📱](https://github.com/marco0antonio0/app-box-gerenciamento)
 
@@ -63,7 +76,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - [Link para o projeto](https://github.com/marco0antonio0/app-box-gerenciamento)
 - [Link para Download app](https://github.com/marco0antonio0/app-box-gerenciamento/releases)
 
-### [Aplicativo Rota da Fé - Cirio 2024 🚀🚀](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
+### [Aplicativo Rota da Fé - Cirio 2024📱 🚀🚀](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
 
 
 
@@ -74,7 +87,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - [Link para o projeto](https://github.com/RotaDaFe/trabalho_extensao_projeto_cirio_2024)
 - [Link para Download app](https://github.com/RotaDaFe/trabalho_extensao_projeto_cirio_2024/releases)
 
-### [Aplicativo Rota da Fé - Cirio 2023 🚀🚀](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
+### [Aplicativo Rota da Fé - Cirio 2023📱 🚀🚀](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
 
 ![img](/imagens/appRotaDaFe1.png)
 
