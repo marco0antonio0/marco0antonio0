@@ -26,6 +26,33 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ## Projetos em Destaque 🚀
 
+### [Site Dirrocha E-commerce 🌐](https://github.com/marco0antonio0/app-box-gerenciamento)
+
+![img](/imagens/1724012676344.jpeg)
+
+- Desenvolvido com Flutter Web
+- Conexão back-end api e multiplas apis de fornecedores alinhados
+- Login e Sign in
+- [Link para o projeto](https://github.com/marco0antonio0/E-commerce_front-end)
+- [Link para site - https://e-commerce.dirrocha.com](https://e-commerce.dirrocha.com/)
+
+
+### [Backend Dirrocha E-commerce 🖥](https://github.com/marco0antonio0/app-box-gerenciamento)
+
+![img](/imagens/1724011647692.jpeg)
+
+- Desenvolvido com Nest JS
+- Uso de multiplas apis de fornecedores alinhados
+- Sistema de Login e Sign in
+- Sistema de busca
+- Sistema de carrinho
+- Uso de SQL Maria Db
+- Sistema deployer VPS
+- Documentado com Swagger
+- [Link para o projeto](https://github.com/marco0antonio0/E-commerce_back-end)
+- [Link para swagger](https://e-commerce-api.dirrocha.com/api-docs)
+- [Link para site - https://e-commerce.dirrocha.com](https://e-commerce.dirrocha.com/)
+
 ### [Aplicativo Box gerenciamento📱](https://github.com/marco0antonio0/app-box-gerenciamento)
 
 ![img](/imagens/aplicativo-box-gerenciamento1.png)
@@ -35,6 +62,17 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - Recursos Offline de armazenamento de dados e CRUD SQLite
 - [Link para o projeto](https://github.com/marco0antonio0/app-box-gerenciamento)
 - [Link para Download app](https://github.com/marco0antonio0/app-box-gerenciamento/releases)
+
+### [Aplicativo Rota da Fé - Cirio 2024 🚀🚀](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
+
+
+
+- Desenvolvido com Flutter Mobile
+- Integração de API
+- Gerenciamento de banco de dados MySQLServer
+- Recursos Offline de armazenamento de dados e CRUD SQLite
+- [Link para o projeto](https://github.com/RotaDaFe/trabalho_extensao_projeto_cirio_2024)
+- [Link para Download app](https://github.com/RotaDaFe/trabalho_extensao_projeto_cirio_2024/releases)
 
 ### [Aplicativo Rota da Fé - Cirio 2023 🚀🚀](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
 
