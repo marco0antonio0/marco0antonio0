@@ -6,14 +6,14 @@
 
 **Nome** Marco Antonio
 \
-**Idade** 23 anos
+**Idade** 25 anos
 \
-**Universitario** ciencia da computação && engenharia de software
+**Universitario** ciencia da computação 
 \
 **Presidente da liga academica** de desenvolvimento de software unama - [**LADSOFT-UNAMA**](https://github.com/ladsoftunama)
 \
 \
-Olá, meu nome é **Marco Antonio**, tenho 23 anos e sou um engenheiro de software apaixonado por tecnologia e desenvolvimento de software. Minha paixão me levou a me especializar em desenvolvimento web e mobile, onde estou constantemente trabalhando em projetos que envolvem integrações com APIs e gerenciamento de bancos de dados para aprimorar minhas habilidades como desenvolvedor.
+Olá, meu nome é **Marco Antonio**, tenho 25 anos e sou um desenvolvedor de software apaixonado por tecnologia e desenvolvimento. Minha paixão me levou a me especializar em desenvolvimento web e mobile, onde estou constantemente trabalhando em projetos que envolvem integrações com APIs e gerenciamento de bancos de dados para aprimorar minhas habilidades como desenvolvedor.
 
 Foco principalmente no desenvolvimento web com Flutter Web e Next.js, além de me especializar em engenharia de integrações com APIs para criar soluções excepcionais.
 
@@ -25,6 +25,22 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5591984837847)
 
 ## Projetos em Destaque 🚀
+
+
+### [🚀 GENReadme.js - Site Gerador de Readme.md 🌐](https://github.com/marco0antonio0/GENReadme.js)
+
+
+https://github.com/user-attachments/assets/ce495c6e-f5d3-44ee-832c-146dbd36c1d3
+
+
+
+- Desenvolvido com NextJS
+- Uso de Docker e Docker compose para Deploy
+- Integração de API
+- Consumo de API
+- Uso de Inteligencia artificial
+- [Link para o projeto](https://github.com/marco0antonio0/GENReadme.js)
+- [Link para site - https://genreadme.dirrocha.com/](https://genreadme.dirrocha.com/)
 
 ### [Site Dirrocha E-commerce 🌐](https://github.com/marco0antonio0/E-commerce_front-end)
 
