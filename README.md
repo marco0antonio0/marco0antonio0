@@ -26,6 +26,16 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ## Projetos em Destaque 🚀
 
+### [🚀 Portfolio - Site portfolio em poucos cliques 🌐](https://github.com/marco0antonio0/Portfolio)
+
+![img](https://github.com/marco0antonio0/Portfolio/raw/main/image/Captura%20de%20tela%20de%202025-02-01%2021-19-52.png)
+
+- Desenvolvido com NextJS
+- Uso de Docker e Docker compose para Deploy
+- Integração de API
+- Consumo de API
+- [Link para o projeto](https://github.com/marco0antonio0/Portfolio)
+- [Link para site - https://portfolio.dirrocha.com/](https://portfolio.dirrocha.com/)
 
 ### [🚀 GENReadme.js - Site Gerador de Readme.md 🌐](https://github.com/marco0antonio0/GENReadme.js)
 
