@@ -26,25 +26,27 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ## Projetos em Destaque 🚀
 
-### [🚀 Portfolio - Site portfolio em poucos cliques 🌐](https://github.com/marco0antonio0/loginPageExample)
-
-![img](https://github.com/marco0antonio0/loginPageExample/blob/main/images/publicidade.png)
-
-- Desenvolvido com NextJS
-- Uso de Docker e Docker compose para Deploy
-- [Link para o projeto](https://github.com/marco0antonio0/loginPageExample)
-- [Link para site - https://login-demo.dirrocha.com/](https://login-demo.dirrocha.com/)
-
-### [🚀 Portfolio - Site Login Page Example 🌐](https://github.com/marco0antonio0/Portfolio)
+### [🚀 Portfolio -  portfolio em poucos cliques 🌐](https://github.com/marco0antonio0/loginPageExample)
 
 ![img](https://github.com/marco0antonio0/Portfolio/raw/main/image/Captura%20de%20tela%20de%202025-02-01%2021-19-52.png)
+
+- Desenvolvido com NextJS
+- Integração de API
+- Consumo de API
+- Uso de Docker e Docker compose para Deploy
+- [Link para o projeto](https://github.com/marco0antonio0/Portfolio)
+- [Link para site - https://portfolio.dirrocha.com/](https://portfolio.dirrocha.com/)
+
+### [🚀 Site Login Page Example 🌐](https://github.com/marco0antonio0/Portfolio)
+
+![login-demo dirrocha com](https://github.com/user-attachments/assets/c6e5337b-2986-40a8-b8e7-afa50677b80a)
 
 - Desenvolvido com NextJS
 - Uso de Docker e Docker compose para Deploy
 - Integração de API
 - Consumo de API
-- [Link para o projeto](https://github.com/marco0antonio0/Portfolio)
-- [Link para site - https://portfolio.dirrocha.com/](https://portfolio.dirrocha.com/)
+- [Link para o projeto](https://github.com/marco0antonio0/loginPageExample)
+- [Link para site - https://login-demo.dirrocha.com/](https://login-demo.dirrocha.com/)
 
 ### [🚀 GENReadme.js - Site Gerador de Readme.md 🌐](https://github.com/marco0antonio0/GENReadme.js)
 
