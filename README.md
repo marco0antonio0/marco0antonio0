@@ -26,6 +26,21 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ## Projetos em Destaque 🚀
 
+### [🚀 Gestor de conteudo -  obtenha facilidade na gerencia de conteudo e de criação de apis em poucos cliques 🌐](https://github.com/marco0antonio0/DirrochaCMS)
+
+![login-demo dirrocha com (1)](https://github.com/user-attachments/assets/7944e220-e9cb-4e9d-bfa6-831a74efa9f4)
+
+
+
+- Desenvolvido com NextJS
+- Integração de API NextJS
+- Integração de API Firebase
+- Consumo de API
+- NoSQL Firestore
+- Uso de Docker e Docker compose para Deploy
+- [Link para o projeto](https://github.com/marco0antonio0/DirrochaCMS)
+- [Link para site - https://cms-demo.dirrocha.com](https://cms-demo.dirrocha.com)
+
 ### [🚀 Portfolio -  portfolio em poucos cliques 🌐](https://github.com/marco0antonio0/loginPageExample)
 
 ![img](https://github.com/marco0antonio0/Portfolio/raw/main/image/Captura%20de%20tela%20de%202025-02-01%2021-19-52.png)
