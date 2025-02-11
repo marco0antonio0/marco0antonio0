@@ -41,7 +41,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - [Link para o projeto](https://github.com/marco0antonio0/DirrochaCMS)
 - [Link para site - https://cms-demo.dirrocha.com](https://cms-demo.dirrocha.com)
 
-### [🚀 Portfolio -  portfolio em poucos cliques 🌐](https://github.com/marco0antonio0/loginPageExample)
+### [🚀 Portfolio -  portfolio em poucos cliques 🌐](https://github.com/marco0antonio0/Portfolio)
 
 ![img](https://github.com/marco0antonio0/Portfolio/raw/main/image/Captura%20de%20tela%20de%202025-02-01%2021-19-52.png)
 
@@ -52,7 +52,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - [Link para o projeto](https://github.com/marco0antonio0/Portfolio)
 - [Link para site - https://portfolio.dirrocha.com/](https://portfolio.dirrocha.com/)
 
-### [🚀 Site Login Page Example 🌐](https://github.com/marco0antonio0/Portfolio)
+### [🚀 Site Login Page Example 🌐](https://github.com/marco0antonio0/loginPageExample)
 
 ![login-demo dirrocha com](https://github.com/user-attachments/assets/c6e5337b-2986-40a8-b8e7-afa50677b80a)
 
