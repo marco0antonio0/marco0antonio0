@@ -42,7 +42,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ### [🚀 Gestor de conteudo -  obtenha facilidade na gerencia de conteudo e de criação de apis em poucos cliques 🌐](https://github.com/marco0antonio0/DirrochaCMS)
 
-![login-demo dirrocha com (1)](https://github.com/user-attachments/assets/7944e220-e9cb-4e9d-bfa6-831a74efa9f4)
+![login-demo dirrocha com (1)](https://private-user-images.githubusercontent.com/72234855/446792929-e93b3064-9d90-4a51-a1bf-20bcbd9f7591.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgzMDc3NDEsIm5iZiI6MTc0ODMwNzQ0MSwicGF0aCI6Ii83MjIzNDg1NS80NDY3OTI5MjktZTkzYjMwNjQtOWQ5MC00YTUxLWExYmYtMjBiY2JkOWY3NTkxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI3VDAwNTcyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyNjgyZjU2YmYyMjVjMjBmMTZhYmNjYjI0NTlmZjhmNGEzMjEyZGMxZDNhYmFkM2IzN2UxNWJjY2FiZjFkODImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tbTVnJd4xFay5GW9xWhzsfEnYDpc4XQ07TNpmc7Gfy0)
 
 
 
