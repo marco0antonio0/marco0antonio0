@@ -29,7 +29,8 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 ### [📊  Uxtraking – Ferramenta de rastreio de múltiplas interações do usuário 🔧](https://uxtracking.liis.com.br/)
 
 
-![Frame 11](https://github.com/user-attachments/assets/822fa58c-96f1-4841-a788-24b82188e3ff)
+![image](https://github.com/user-attachments/assets/c83079af-713d-43ce-b0c9-49b1aac95a5d)
+
 
 
 - Desenvolvido com Javascript, Python, NestJS
