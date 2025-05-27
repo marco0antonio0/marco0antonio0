@@ -26,6 +26,19 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ## Projetos em Destaque 🚀
 
+### [📊  Uxtraking Extension – Ferramenta de rastreio de múltiplas interações do usuário 🔧](https://uxtracking.liis.com.br/)
+
+
+![Frame 11](https://github.com/user-attachments/assets/822fa58c-96f1-4841-a788-24b82188e3ff)
+
+
+- Desenvolvido com Javascript
+- Integração de API Especializada UXtraking-AI
+- Integração de API Gateway
+- Consumo de MongoDB e MariaDB
+- [Link para o pagina do projeto](https://uxtracking.liis.com.br/)
+- [Link para extensão chrome](https://chromewebstore.google.com/detail/ux-tracking-extension/haigigcinnnjomeimdknnbindagalica?hl=pt-BR&utm_source=ext_sidebar)
+
 ### [🚀 RespondeAI – Correção Inteligente de Gabaritos 🌐](https://github.com/marco0antonio0/RespondeAI-front)
 
 
