@@ -26,13 +26,13 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ## Projetos em Destaque 🚀
 
-### [📊  Uxtraking Extension – Ferramenta de rastreio de múltiplas interações do usuário 🔧](https://uxtracking.liis.com.br/)
+### [📊  Uxtraking – Ferramenta de rastreio de múltiplas interações do usuário 🔧](https://uxtracking.liis.com.br/)
 
 
 ![Frame 11](https://github.com/user-attachments/assets/822fa58c-96f1-4841-a788-24b82188e3ff)
 
 
-- Desenvolvido com Javascript
+- Desenvolvido com Javascript, Python, NestJS
 - Integração de API Especializada UXtraking-AI
 - Integração de API Gateway
 - Consumo de MongoDB e MariaDB
