@@ -26,6 +26,15 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ## Projetos em Destaque 🚀
 
+### [🚀  Metasnap – Ferramenta que gera automaticamente thumbnails 🔧](https://web-metasnap.dirrocha.com/)
+
+![metasnap-thumbnail-1752974947588](https://github.com/user-attachments/assets/9759bf33-4d46-4e78-a798-2cbc7764ba08)
+
+- Desenvolvido com Typescript, NestJS
+- Integração de API Especializada para obter screenshot do site
+- [Link para o pagina do projeto](https://web-metasnap.dirrocha.com/)
+- [Link para o projeto](https://github.com/marco0antonio0/web-metasnap)
+  
 ### [📊  Uxtraking – Ferramenta de rastreio de múltiplas interações do usuário 🔧](https://uxtracking.liis.com.br/)
 
 
@@ -42,9 +51,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 
 ### [🚀 RespondeAI – Correção Inteligente de Gabaritos 🌐](https://github.com/marco0antonio0/RespondeAI-front)
 
-
 ![446792929-e93b3064-9d90-4a51-a1bf-20bcbd9f7591](https://github.com/user-attachments/assets/1a242385-2b51-443b-a564-1215822ee26a)
-
 
 
 - Desenvolvido com NextJS
