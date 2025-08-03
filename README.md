@@ -28,12 +28,13 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 # [🧾 Gerador de Certificados Personalizados](https://certificado.opengena.com/)
 
 <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/f75d5196-9bce-44d8-a0d6-1fde3345edb6" />
+
 - Desenvolvido com Typescript, NestJS
 - Integração de API Especializada para obter screenshot do site
 - [Link para o pagina do projeto](https://certificado.opengena.com/)
 - [Link para o projeto](https://github.com/marco0antonio0/gen_certificate)
 
-- 
+
 ### [🚀  Metasnap – Ferramenta que gera automaticamente thumbnails 🔧](https://web-metasnap.dirrocha.com/)
 
 ![metasnap-thumbnail-1752974947588](https://github.com/user-attachments/assets/9759bf33-4d46-4e78-a798-2cbc7764ba08)
