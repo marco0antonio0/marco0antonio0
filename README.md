@@ -24,6 +24,15 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-aa3024233/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5591984837847)
 
+# [🦴🎮 OsteoplayVet - Transformando anatomia veterinária em jogo — e aprendizado em experiência](https://osteoplayvet.netlify.app/)
+
+<img width="1200" height="630" alt="image" src="https://raw.githubusercontent.com/marco0antonio0/marco0antonio0/refs/heads/main/imagens/home_page_osteoplayvet.png" />
+
+- Desenvolvido com Typescript, NestJS
+- Integração de API MakeAPI para obter dados dinamicos do site
+- Gamificando o aprendizado de veterinaria com baseamento tecnico cientifico de veterinaria
+- [Link para o pagina do projeto](https://osteoplayvet.netlify.app/)
+
 ## Projetos em Destaque 🚀
 # [🧾 Gerador de Certificados Personalizados](https://certificado.opengena.com/)
 
