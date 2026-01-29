@@ -44,13 +44,13 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - [Link para o projeto](https://github.com/marco0antonio0/gen_certificate)
 
 
-### [🚀  Metasnap – Ferramenta que gera automaticamente thumbnails 🔧](https://web-metasnap.dirrocha.com/)
+### [🚀  Metasnap – Ferramenta que gera automaticamente thumbnails 🔧](https://metasnap.opengena.com/)
 
 ![metasnap-thumbnail-1752974947588](https://github.com/user-attachments/assets/9759bf33-4d46-4e78-a798-2cbc7764ba08)
 
 - Desenvolvido com Typescript, NestJS
 - Integração de API Especializada para obter screenshot do site
-- [Link para o pagina do projeto](https://web-metasnap.dirrocha.com/)
+- [Link para o pagina do projeto](https://metasnap.opengena.com/)
 - [Link para o projeto](https://github.com/marco0antonio0/gen_certificate/blob/main/README.md)
   
 ### [📊  Uxtraking – Ferramenta de rastreio de múltiplas interações do usuário 🔧](https://uxtracking.liis.com.br/)
@@ -78,7 +78,7 @@ Convido você a explorar meus repositórios para conhecer mais sobre meus projet
 - Consumo de API
 - Uso de Docker e Docker compose para Deploy
 - [Link para o projeto](https://github.com/marco0antonio0/RespondeAI-frontr)
-- [Link para site - https://respondeai.dirrocha.com/](https://respondeai.dirrocha.com/)
+- [Link para site - https://respondeai.dirrocha.com/](https://respondeai.opengena.com/)
 
 ### [🚀 Gestor de conteudo -  obtenha facilidade na gerencia de conteudo e de criação de apis em poucos cliques 🌐](https://github.com/marco0antonio0/DirrochaCMS)
 
