@@ -11,12 +11,6 @@
     <a href="https://www.linkedin.com/in/marco-antonio-aa3024233/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5591984837847">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
-    <a href="https://portfolio.dirrocha.com/">
-      <img src="https://img.shields.io/badge/Portfólio_Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio" />
-    </a>
     <img src="https://komarev.com/ghpvc/?username=marco0antonio0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Views" />
   </p>
 
@@ -79,8 +73,6 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=marco0antonio0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marco0antonio0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=marco0antonio0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -244,7 +236,7 @@ https://github.com/user-attachments/assets/9c3137f4-91e0-467d-aa21-91b4be816ff7
 | Projeto | Descrição | Preview / Links |
 | :--- | :--- | :---: |
 | **GENReadme.js** | Gerador dinâmico de documentação README.md com IA | [🌐 Site](https://genreadme.dirrocha.com/) • [💻 GitHub](https://github.com/marco0antonio0/GENReadme.js) |
-| **Portfólio Pessoal** | Modelo de portfólio moderno para desenvolvedores | [🌐 Site](https://portfolio.dirrocha.com/) • [💻 GitHub](https://github.com/marco0antonio0/Portfolio) |
+| **Portfólio Pessoal** | Modelo de portfólio moderno para desenvolvedores | [💻 GitHub](https://github.com/marco0antonio0/Portfolio) |
 | **Login Page Example** | Interface de autenticação moderna e responsiva | [🌐 Site](https://login-demo.dirrocha.com/) • [💻 GitHub](https://github.com/marco0antonio0/loginPageExample) |
 | **Me Adote (MedVet)** | Plataforma para adoção de animais resgatados | [🌐 Site](https://adote.nova-work.cloud/) • [💻 GitHub](https://github.com/marco0antonio0/trabalho_extensao_medVet) |
 | **Store Play Games** | Blog e vitrine de catálogo de jogos em Next.js | [🌐 Site](https://store-games.nova-work.cloud/) • [💻 GitHub](https://github.com/marco0antonio0/blog-games-nextjs) |
