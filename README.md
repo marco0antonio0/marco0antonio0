@@ -1,321 +1,297 @@
-# 👋 Olá, eu sou Marco Antonio 🎯
+<div align="center">
+  <img src="./imagens/developer.gif" width="100%" alt="Header Banner" />
 
-![Imagem](/imagens/image_walpaper1.png)
+  <h1>👋 Olá, eu sou Marco Antonio 🎯</h1>
 
-<!-- ## Sobre Mim ⭐⭐⭐ -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack+%26+Mobile;Especialista+em+Next.js+%2B+TypeScript+%2B+NestJS;Desenvolvimento+Mobile+com+Flutter;Engenharia+de+APIs+%26+Intelig%C3%AAncia+Artificial" alt="Typing SVG" />
+  </p>
 
-**Nome** Marco Antonio
-\
-**Idade** 25 anos
-\
-**Universitario** ciencia da computação 
-\
-**Presidente da liga academica** de desenvolvimento de software unama - [**LADSOFT-UNAMA**](https://github.com/ladsoftunama)
-\
-\
-Olá, meu nome é **Marco Antonio**, tenho 25 anos e sou um desenvolvedor de software apaixonado por tecnologia e desenvolvimento. Minha paixão me levou a me especializar em desenvolvimento web e mobile, onde estou constantemente trabalhando em projetos que envolvem integrações com APIs e gerenciamento de bancos de dados para aprimorar minhas habilidades como desenvolvedor.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/marco-antonio-aa3024233/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5591984837847">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <a href="https://portfolio.dirrocha.com/">
+      <img src="https://img.shields.io/badge/Portfólio_Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=marco0antonio0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Views" />
+  </p>
 
-Foco principalmente no desenvolvimento web com Flutter Web e Next.js, além de me especializar em engenharia de integrações com APIs para criar soluções excepcionais.
+  <p align="center">
+    <a href="#-sobre-mim"><b>Sobre Mim</b></a> •
+    <a href="#-projetos-principais-e-recentes"><b>🚀 Projetos</b></a> •
+    <a href="#-aplicativos-mobile"><b>📱 Mobile</b></a> •
+    <a href="#-projetos-web--utilitários"><b>🌐 Web & Tools</b></a> •
+    <a href="#%EF%B8%8F-tecnologias--ferramentas"><b>🛠️ Tech Stack</b></a> •
+    <a href="#-estatísticas-do-github"><b>📊 Estatísticas</b></a>
+  </p>
+</div>
 
-Convido você a explorar meus repositórios para conhecer mais sobre meus projetos atuais!
+---
 
-## Redes Sociais
+## 👨‍💻 Sobre Mim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-aa3024233/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5591984837847)
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>👋 Prazer, eu sou Marco Antonio!</h3>
+      <p>Desenvolvedor de Software com <b>25 anos</b>, especializado na criação de produtos digitais robustos, interfaces responsivas e arquiteturas escaláveis para <b>Web & Mobile</b>.</p>
+      <ul>
+        <li>🎓 <b>Formação:</b> Bacharelado em Ciência da Computação</li>
+        <li>📍 <b>Localização:</b> Brasil 🇧🇷</li>
+        <li>🟢 <b>Status:</b> Disponível para novos projetos e soluções inovadoras</li>
+        <li>⚡ <b>Foco:</b> Next.js, NestJS, Flutter, Integrações de APIs e Inteligência Artificial</li>
+      </ul>
+      <p>Tenho facilidade em transformar ideias complexas em softwares funcionais, intuitivos e com foco na experiência do usuário (UI/UX).</p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="./imagens/workspace.gif" width="100%" alt="Developer Workspace Animation" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
-## Projetos em Destaque 🚀
-# [🦴🎮 OsteoplayVet - Transformando anatomia veterinária em jogo — e aprendizado em experiência](https://osteoplayvet.netlify.app/)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <b>🌐 Web Full Stack</b><br>
+        <sub>Next.js • TypeScript • NestJS • Tailwind</sub>
+      </td>
+      <td align="center" width="33%">
+        <b>📱 Mobile Multiplataforma</b><br>
+        <sub>Flutter • Dart • SQLite • REST APIs</sub>
+      </td>
+      <td align="center" width="33%">
+        <b>🤖 IA & Engenharia de APIs</b><br>
+        <sub>Python • OpenCV • Voice Cloning • Docker</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=marco0antonio0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marco0antonio0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=marco0antonio0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🚀 Projetos Principais e Recentes
+
+### [📱 MangAIO Translate – App Tradutor de Mangá Gratuito para Android](https://mangaiotranslate.agevon.com/)
+> **App tradutor de mangá gratuito para Android com processamento inteligente de texto e imagem.**
+
+![img](./imagens/lp-mangaiotranslate.png)
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-AI-blueviolet?style=flat-square)
+
+- 🔗 **Acesse o site oficial:** [mangaiotranslate.agevon.com](https://mangaiotranslate.agevon.com/)
+
+---
+
+### [🌐 Translate Manga BR – Tradutor de Mangá para Web Self-Hosted](https://github.com/marco0antonio0/translate-manga-br)
+> **Solução self-hosted para tradução automatizada de mangás e quadrinhos via web.**
+
+![img](./imagens/tradutor-manga-desktop.png)
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Self Hosted](https://img.shields.io/badge/Self--Hosted-Ready-orange?style=flat-square)
+
+- 🔗 **Repositório:** [github.com/marco0antonio0/translate-manga-br](https://github.com/marco0antonio0/translate-manga-br)
+
+---
+
+### 🎙️ Ferramenta de Clonagem de Voz Desktop 🔒
+> **Software de clonagem de voz offline de alta performance otimizado para execução exclusiva em CPU.**
+
+![img](./imagens/tool-clonador-voz.png)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Voice Cloning](https://img.shields.io/badge/AI-Voice%20Cloning-ff69b4?style=flat-square) ![CPU Only](https://img.shields.io/badge/Hardware-CPU%20Optimized-green?style=flat-square) ![Status](https://img.shields.io/badge/Projeto-Privado-red?style=flat-square)
+
+- 🔒 **Projeto Privado**
+- Viabiliza a clonagem de áudio com naturalidade no desktop sem a necessidade de placas de vídeo (GPU), sendo totalmente acessível para computadores modestos.
+
+---
+
+### [🦴🎮 OsteoplayVet - Gamificação de Anatomia Veterinária](https://osteoplayvet.netlify.app/)
+> **Plataforma interativa gamificada para o ensino e fixação de conteúdos de anatomia veterinária.**
 
 <img width="1200" height="630" alt="image" src="https://raw.githubusercontent.com/marco0antonio0/marco0antonio0/refs/heads/main/imagens/home_page_osteoplayvet.png" />
 
-- Desenvolvido com Typescript, NestJS
-- Integração de API MakeAPI para obter dados dinamicos do site
-- Gamificando o aprendizado de veterinaria com baseamento tecnico cientifico de veterinaria
-- [Link para o pagina do projeto](https://osteoplayvet.netlify.app/)
-  
-# [🧾 Gerador de Certificados Personalizados](https://certificado.opengena.com/)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Gamification](https://img.shields.io/badge/EdTech-Gamification-blue?style=flat-square)
+
+- Integração dinâmica de dados com MakeAPI.
+- 🔗 **Página do projeto:** [osteoplayvet.netlify.app](https://osteoplayvet.netlify.app/)
+
+---
+
+### [🧾 Gerador de Certificados Personalizados](https://github.com/marco0antonio0/gen_certificate)
+> **Gerador e renderizador de certificados digitais em lote com automação de screenshots e exportação.**
 
 <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/f75d5196-9bce-44d8-a0d6-1fde3345edb6" />
 
-- Desenvolvido com Typescript, NestJS
-- Integração de API Especializada para obter screenshot do site
-- [Link para o pagina do projeto](https://certificado.opengena.com/)
-- [Link para o projeto](https://github.com/marco0antonio0/gen_certificate)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
+- 🔗 **Repositório:** [gen_certificate](https://github.com/marco0antonio0/gen_certificate)
 
-### [🚀  Metasnap – Ferramenta que gera automaticamente thumbnails 🔧](https://metasnap.opengena.com/)
+---
+
+### [🚀 Metasnap – Gerador Automático de Thumbnails](https://github.com/marco0antonio0/gen_certificate/blob/main/README.md)
+> **Automação web para captura e geração instantânea de prévias e thumbnails de páginas.**
 
 ![metasnap-thumbnail-1752974947588](https://github.com/user-attachments/assets/9759bf33-4d46-4e78-a798-2cbc7764ba08)
 
-- Desenvolvido com Typescript, NestJS
-- Integração de API Especializada para obter screenshot do site
-- [Link para o pagina do projeto](https://metasnap.opengena.com/)
-- [Link para o projeto](https://github.com/marco0antonio0/gen_certificate/blob/main/README.md)
-  
-### [📊  Uxtraking – Ferramenta de rastreio de múltiplas interações do usuário 🔧](https://uxtracking.liis.com.br/)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
+- 🔗 **Repositório:** [gen_certificate/metasnap](https://github.com/marco0antonio0/gen_certificate/blob/main/README.md)
+
+---
+
+### [📊 UXtracking – Rastreamento de Interações do Usuário](https://uxtracking.liis.com.br/)
+> **Ecossistema de análise comportamental de UX com extensão para navegador e painel analítico com IA.**
 
 ![image](https://github.com/user-attachments/assets/c83079af-713d-43ce-b0c9-49b1aac95a5d)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
+- Integração com IA especializada UXtracking-AI e API Gateway.
+- 🔗 **Acesse o painel:** [uxtracking.liis.com.br](https://uxtracking.liis.com.br/)
+- 🔗 **Extensão no Chrome Web Store:** [UX Tracking Extension](https://chromewebstore.google.com/detail/ux-tracking-extension/haigigcinnnjomeimdknnbindagalica?hl=pt-BR&utm_source=ext_sidebar)
 
-- Desenvolvido com Javascript, Python, NestJS
-- Integração de API Especializada UXtraking-AI
-- Integração de API Gateway
-- Consumo de MongoDB e MariaDB
-- [Link para o pagina do projeto](https://uxtracking.liis.com.br/)
-- [Link para extensão chrome](https://chromewebstore.google.com/detail/ux-tracking-extension/haigigcinnnjomeimdknnbindagalica?hl=pt-BR&utm_source=ext_sidebar)
+---
 
-### [🚀 RespondeAI – Correção Inteligente de Gabaritos 🌐](https://github.com/marco0antonio0/RespondeAI-front)
+### [🚀 RespondeAI – Correção Inteligente de Gabaritos](https://github.com/marco0antonio0/RespondeAI-front)
+> **Correção automatizada de provas e gabaritos através de visão computacional (OpenCV) e IA.**
 
 ![446792929-e93b3064-9d90-4a51-a1bf-20bcbd9f7591](https://github.com/user-attachments/assets/1a242385-2b51-443b-a564-1215822ee26a)
 
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-OpenCV-green?style=flat-square&logo=opencv&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- Desenvolvido com NextJS
-- Integração de API NextJS
-- Integração de API python openCV
-- Consumo de API
-- Uso de Docker e Docker compose para Deploy
-- [Link para o projeto](https://github.com/marco0antonio0/RespondeAI-frontr)
-- [Link para site - https://respondeai.dirrocha.com/](https://respondeai.opengena.com/)
+- 🔗 **Repositório:** [RespondeAI-front](https://github.com/marco0antonio0/RespondeAI-front)
 
-### [🚀 Gestor de conteudo -  obtenha facilidade na gerencia de conteudo e de criação de apis em poucos cliques 🌐](https://github.com/marco0antonio0/DirrochaCMS)
+---
+
+### [🚀 DirrochaCMS – Gestor de Conteúdo e Gerador de APIs](https://github.com/marco0antonio0/DirrochaCMS)
+> **Headless CMS para criação e gerenciamento dinâmico de endpoints e conteúdos com agilidade.**
 
 ![image](https://github.com/user-attachments/assets/683d1bcd-9142-4763-bc99-f0951cc38a23)
 
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-NoSQL-orange?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- Desenvolvido com NextJS
-- Integração de API NextJS
-- Integração de API Firebase
-- Consumo de API
-- NoSQL Firestore
-- Uso de Docker e Docker compose para Deploy
-- [Link para o projeto](https://github.com/marco0antonio0/DirrochaCMS)
-- [Link para site - https://cms-demo.dirrocha.com](https://cms-demo.dirrocha.com)
+- 🔗 **Repositório:** [DirrochaCMS](https://github.com/marco0antonio0/DirrochaCMS)
 
-### [🚀 Portfolio -  portfolio em poucos cliques 🌐](https://github.com/marco0antonio0/Portfolio)
+---
 
-![img](https://github.com/marco0antonio0/Portfolio/raw/main/image/Captura%20de%20tela%20de%202025-02-01%2021-19-52.png)
+### [🛒 Dirrocha E-commerce (Full Stack)](https://github.com/marco0antonio0/E-commerce_front-end)
+> **Solução completa de loja virtual com front-end reativo em Flutter Web e back-end em NestJS.**
 
-- Desenvolvido com NextJS
-- Integração de API
-- Consumo de API
-- Uso de Docker e Docker compose para Deploy
-- [Link para o projeto](https://github.com/marco0antonio0/Portfolio)
-- [Link para site - https://portfolio.dirrocha.com/](https://portfolio.dirrocha.com/)
+| Front-end (Flutter Web) | Back-end (NestJS & Swagger) |
+| :---: | :---: |
+| ![Front](./imagens/1724012676344.jpeg) | ![Back](./imagens/1724011647692.jpeg) |
+| [🔗 Repositório Front-end](https://github.com/marco0antonio0/E-commerce_front-end) | [🔗 Repositório Back-end](https://github.com/marco0antonio0/E-commerce_back-end) |
 
-### [🚀 Site Login Page Example 🌐](https://github.com/marco0antonio0/loginPageExample)
+- **Recursos:** Conexão com múltiplos fornecedores, carrinho dinâmico, autenticação e documentação completa via Swagger.
 
-![login-demo dirrocha com](https://github.com/user-attachments/assets/c6e5337b-2986-40a8-b8e7-afa50677b80a)
+---
 
-- Desenvolvido com NextJS
-- Uso de Docker e Docker compose para Deploy
-- Integração de API
-- Consumo de API
-- [Link para o projeto](https://github.com/marco0antonio0/loginPageExample)
-- [Link para site - https://login-demo.dirrocha.com/](https://login-demo.dirrocha.com/)
+## 📱 Aplicativos Mobile
 
-### [🚀 GENReadme.js - Site Gerador de Readme.md 🌐](https://github.com/marco0antonio0/GENReadme.js)
-
-
-https://github.com/user-attachments/assets/ce495c6e-f5d3-44ee-832c-146dbd36c1d3
-
-
-
-- Desenvolvido com NextJS
-- Uso de Docker e Docker compose para Deploy
-- Integração de API
-- Consumo de API
-- Uso de Inteligencia artificial
-- [Link para o projeto](https://github.com/marco0antonio0/GENReadme.js)
-- [Link para site - https://genreadme.dirrocha.com/](https://genreadme.dirrocha.com/)
-
-### [Site Dirrocha E-commerce 🌐](https://github.com/marco0antonio0/E-commerce_front-end)
-
-![img](/imagens/1724012676344.jpeg)
-
-- Desenvolvido com Flutter Web
-- Conexão back-end api e multiplas apis de fornecedores alinhados
-- Login e Sign in
-- [Link para o projeto](https://github.com/marco0antonio0/E-commerce_front-end)
-- [Link para site - https://e-commerce.dirrocha.com](https://e-commerce.dirrocha.com/)
-
-
-### [Backend Dirrocha E-commerce 🖥](https://github.com/marco0antonio0/E-commerce_back-end)
-
-![img](/imagens/1724011647692.jpeg)
-
-- Desenvolvido com Nest JS
-- Uso de multiplas apis de fornecedores alinhados
-- Sistema de Login e Sign in
-- Sistema de busca
-- Sistema de carrinho
-- Uso de SQL Maria Db
-- Sistema deployer VPS
-- Documentado com Swagger
-- [Link para o projeto](https://github.com/marco0antonio0/E-commerce_back-end)
-- [Link para swagger Docs](https://e-commerce-api.dirrocha.com/api-docs)
-- [Link para site - https://e-commerce.dirrocha.com](https://e-commerce.dirrocha.com/)
-
-
-### [Aplicativo CadMED 2024📱 🚀🚀](https://github.com/CAD-MED/Projeto-de-extensao-CAD-MED)
+### [📱 Aplicativo CadMED 2024](https://github.com/CAD-MED/Projeto-de-extensao-CAD-MED)
+> Aplicativo voltado para cadastro e acompanhamento médico comunitário.
 
 https://github.com/user-attachments/assets/9c3137f4-91e0-467d-aa21-91b4be816ff7
 
-- Desenvolvido com Flutter Mobile
-- Integração de API
-- Gerenciamento de banco de dados MySQLServer
-- Recursos Offline de armazenamento de dados e CRUD SQLite
-- [Link para o projeto](https://github.com/CAD-MED/Projeto-de-extensao-CAD-MED)
-- [Link para Download app](https://github.com/CAD-MED/Projeto-de-extensao-CAD-MED/releases)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### [Aplicativo Rota da Fé - Cirio 2024📱 🚀🚀](https://github.com/RotaDaFe/trabalho_extensao_projeto_cirio_2024)
+- Sincronização em nuvem e persistência offline.
+- [Repositório GitHub](https://github.com/CAD-MED/Projeto-de-extensao-CAD-MED) • [Download do APK](https://github.com/CAD-MED/Projeto-de-extensao-CAD-MED/releases)
 
-https://github.com/user-attachments/assets/c4d43463-f5ab-4551-afde-74fc506cb6ba
+---
 
-- Desenvolvido com Flutter Mobile
-- Integração de API
-- Gerenciamento de banco de dados MySQLServer
-- Recursos Offline de armazenamento de dados e CRUD SQLite
-- [Link para o projeto](https://github.com/RotaDaFe/trabalho_extensao_projeto_cirio_2024)
-- [Link para Download app](https://github.com/RotaDaFe/trabalho_extensao_projeto_cirio_2024/releases)
+### [📱 Aplicativo Rota da Fé - Círio (2023 & 2024)](https://github.com/RotaDaFe/trabalho_extensao_projeto_cirio_2024)
+> Guia interativo e suporte aos romeiros e devotos do Círio de Nazaré.
 
-### [Aplicativo Rota da Fé - Cirio 2023📱 🚀🚀](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
+| Edição 2024 | Edição 2023 |
+| :---: | :---: |
+| https://github.com/user-attachments/assets/c4d43463-f5ab-4551-afde-74fc506cb6ba | ![App Rota 2023](./imagens/appRotaDaFe1.png) |
+| [🔗 Repositório 2024](https://github.com/RotaDaFe/trabalho_extensao_projeto_cirio_2024) | [🔗 Repositório 2023](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023) |
 
-![img](/imagens/appRotaDaFe1.png)
+---
 
-- Desenvolvido com Flutter Mobile
-- Integração de API
-- Gerenciamento de banco de dados MySQLServer
-- Recursos Offline de armazenamento de dados e CRUD SQLite
-- [Link para o projeto](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023)
-- [Link para Download app](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023/releases/tag/v0.1.3-beta)
+### [📱 Aplicativo Box Gerenciamento](https://github.com/marco0antonio0/app-box-gerenciamento) & [📱 Flex Task List](https://github.com/marco0antonio0/App-Task-List)
 
-### [Aplicativo Box gerenciamento📱](https://github.com/marco0antonio0/app-box-gerenciamento)
+| Box Gerenciamento | Flex Task List |
+| :---: | :---: |
+| ![Box](./imagens/aplicativo-box-gerenciamento1.png) | ![Flex](./imagens/appFlexTaskList.png) |
+| [🔗 Repositório](https://github.com/marco0antonio0/app-box-gerenciamento) • [Download APK](https://github.com/marco0antonio0/app-box-gerenciamento/releases) | [🔗 Repositório](https://github.com/marco0antonio0/App-Task-List) • [Download APK](https://github.com/marco0antonio0/App-Task-List/releases/tag/v1) |
 
-![img](/imagens/aplicativo-box-gerenciamento1.png)
+---
 
-- Desenvolvido com Flutter Mobile
-- Gerenciamento de banco de dados SQLite
-- Recursos Offline de armazenamento de dados e CRUD SQLite
-- [Link para o projeto](https://github.com/marco0antonio0/app-box-gerenciamento)
-- [Link para Download app](https://github.com/marco0antonio0/app-box-gerenciamento/releases)
+## 🌐 Projetos Web & Utilitários
 
-### [Aplicativo Flex Task List 📱](https://github.com/marco0antonio0/App-Task-List)
+<details>
+<summary><b>📂 Clique para expandir a lista de outros projetos web</b></summary>
+<br>
 
-![img](/imagens/appFlexTaskList.png)
+| Projeto | Descrição | Preview / Links |
+| :--- | :--- | :---: |
+| **GENReadme.js** | Gerador dinâmico de documentação README.md com IA | [🌐 Site](https://genreadme.dirrocha.com/) • [💻 GitHub](https://github.com/marco0antonio0/GENReadme.js) |
+| **Portfólio Pessoal** | Modelo de portfólio moderno para desenvolvedores | [🌐 Site](https://portfolio.dirrocha.com/) • [💻 GitHub](https://github.com/marco0antonio0/Portfolio) |
+| **Login Page Example** | Interface de autenticação moderna e responsiva | [🌐 Site](https://login-demo.dirrocha.com/) • [💻 GitHub](https://github.com/marco0antonio0/loginPageExample) |
+| **Me Adote (MedVet)** | Plataforma para adoção de animais resgatados | [🌐 Site](https://adote.nova-work.cloud/) • [💻 GitHub](https://github.com/marco0antonio0/trabalho_extensao_medVet) |
+| **Store Play Games** | Blog e vitrine de catálogo de jogos em Next.js | [🌐 Site](https://store-games.nova-work.cloud/) • [💻 GitHub](https://github.com/marco0antonio0/blog-games-nextjs) |
+| **Calculadora de Notas** | Utilitário para cálculo e simulação de notas acadêmicas | [🌐 Site](https://calculadora-notas.nova-work.cloud/) • [💻 GitHub](https://github.com/marco0antonio0/calculadora-notas-faculdade) |
+| **Gerador README Flutter**| Aplicação Flutter Web para templates rápidos de README | [🌐 Site](https://facilities-readme.nova-work.cloud/#/) • [💻 GitHub](https://github.com/marco0antonio0/Gerador-README-Flutter) |
+| **Topers Cursos** | Landing page moderna para venda de cursos online | [🌐 Site](https://topercursos.nova-work.cloud/) • [💻 GitHub](https://github.com/marco0antonio0/Site-topers-cursos) |
+| **Pokédex Project** | Consumo interativo de PokéAPI com Next.js & Tailwind | [🌐 Site](https://pokedex.nova-work.cloud/) • [💻 API](https://github.com/marco0antonio0/api-pokemons) |
 
-- Desenvolvido com Flutter Mobile
-- Persistencia de dados em banco de dados SQLite
-- Recursos Offline de armazenamento de dados e CRUD SQLite
-- [Link para o projeto](https://github.com/marco0antonio0/App-Task-List)
-- [Link para Download app](https://github.com/marco0antonio0/App-Task-List/releases/tag/v1)
+</details>
 
-### [Site de Adoção de Animais 🐾](https://github.com/marco0antonio0/trabalho_extensao_medVet)
+---
 
-![img](/imagens/projMeAdote2.png)
+## 📈 Estudos em Andamento
 
-- Desenvolvido com Next.js
-- Integração de API
-- Gerenciamento de banco de dados MySQL
-- Armazenamento no Firebase
-- [Link para o site](https://adote.nova-work.cloud/)
+- 🚧 **Projetos em desenvolvimento ativo:**
+  - 🍳 **Blog Cozinharte:** Next.js & Oracle Database Integration
+  - 🚗 **Clone Uber Alternativo:** Arquitetura reativa em Flutter
+  - 💳 **App Frente de Caixa (PDV):** Solução mobile em Flutter
+  - 🖨️ **Calculadora de Impressão 3D:** Utilitário mobile em Flutter
 
-### [Blog Loja de Games 🎮](https://github.com/marco0antonio0/blog-games-nextjs)
+---
 
-![img](/imagens/site-store-play-games.png)
+## 🛠️ Tecnologias & Ferramentas
 
-- Desenvolvido com Next.js
-- Integração de API para obter dados
-- [Link para o site](https://store-games.nova-work.cloud/)
-
-### [calculadora-notas-faculdade✅](https://github.com/marco0antonio0/calculadora-notas-faculdade)
-
-![img](/imagens/site-calculadora-de-nota.png)
-
-- Desenvolvido com Next.js
-- Objetivo: facilitar o calculo de notas universitarias
-- [Link para o site](https://calculadora-notas.nova-work.cloud/)
-
-### [Gerador-README-Flutter✅](https://github.com/marco0antonio0/Gerador-README-Flutter)
-
-![img](/imagens/site-gerador-readme.png)
-
-- Desenvolvido com Flutter Web
-- Objetivo: facilitar o desenvolvimento de README.md
-- [Link para o site](https://facilities-readme.nova-work.cloud/#/)
-
-### [Site venda de cursos✅](https://github.com/marco0antonio0/Site-topers-cursos)
-
-![img](/imagens/site-toperCursosss.png)
-
-- Desenvolvido com Next.js
-- Tailwinds
-- Integração de API para obter dados
-- [Link para o site](https://topercursos.nova-work.cloud/)
-
-### [Site Pokedex✅](https://github.com/marco0antonio0/Pokedex-project)
-
-![img](/imagens/site-pokedexx.png)
-
-- Desenvolvido com Next.js
-- Tailwinds
-- Integração de API para obter dados
-- [Link para o projeto api](https://github.com/marco0antonio0/api-pokemons)
-- [Link para o site](https://pokedex.nova-work.cloud/)
-
-## Estudos em Andamento 📈
-
-- 🚧 Lista em atualização 🚧
-  - Blog Cozinharte (Desenvolvimento Next.js, Integração com Oracle Database)
-  - Blog Clone Uber Alternativo (Desenvolvimento Flutter)
-  - App Frente de Caixa (Desenvolvimento Mobile Flutter)
-  - App Calculadora de Impressão 3D (Desenvolvimento Mobile Flutter)
-
-## Language
-
+### 💻 Linguagens & Frameworks
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,nodejs,nextjs,react,flutter,flask,express,nestjs,tailwind" />
   </a>
+</p>
 
-## Frameworks
-
+### 🗄️ Bancos de Dados & DevOps
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,flutter,react,flask,express," />
+    <img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb,sqlite,firebase,docker,linux" />
   </a>
+</p>
 
-## Databases-apps-language
-
+### 🚀 Deploy & Ferramentas
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+    <img src="https://skillicons.dev/icons?i=netlify,heroku,azure,git,github,vscode,figma,postman" />
   </a>
-  
-## Deployer
+</p>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,heroku,azure" />
-  </a>
-  
-## Ferramentas 🛠️
+---
 
-### Design 🎨
-
-- Figma
-- Canva
-
-### Fluxograma / Mapa 🗺️
-
-- Visual Paradigma Online
-- Whimsical
-
-### Controle de Versão/Git ⭐
-
-- Controle de versão
-- Controle de branch
-- Correções de bugs
-
-### VSCode ⭐
-
-- Depuração de código
-- Soluções de erros em códigos
+<div align="center">
+  <p>⭐ Desenvolvido por <b>Marco Antonio</b></p>
+</div>
